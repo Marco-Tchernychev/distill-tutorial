@@ -7,4 +7,20 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## About Me
+My name is **Marco Tchernychev**, I go to Brookline High School.
 
+## About the Project
+My project, *The Fuel Efficiency of cars*, compares the fuel efficiency of cars to their weight.
+
+### Goals
+* Educate people on how to be more environmentally conscious.
+
+  + A complication for this goal is that it might be difficult to get this graphic shown to enough people.
+
+* Practice my R Studio skills!
+
+"This is data science" 
+~ Preceptor
+
+[Kane's Free Data Science High School Bootcamp](https://bootcamp.davidkane.info)
