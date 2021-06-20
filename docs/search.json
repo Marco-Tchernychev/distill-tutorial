@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nAbout Me\r\nMy name is Marco Tchernychev, I go to Brookline High School.\r\nAbout the Project\r\nMy project, The Fuel Efficiency of cars, compares the fuel efficiency of cars to their weight.\r\nGoals\r\nEducate people on how to be more environmentally conscious.\r\nA complication for this goal is that it might be difficult to get this graphic shown to enough people.\r\n\r\nPractice my R Studio skills!\r\n“This is data science”\r\nPreceptor\r\n\r\nKane’s Free Data Science High School Bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T16:24:45-04:00"
+      "last_modified": "2021-06-20T17:16:26-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "\"This is where I will describe my final project.\"\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T16:24:54-04:00"
+      "last_modified": "2021-06-20T17:16:33-04:00"
     },
     {
       "path": "source_A.html",
@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T16:24:56-04:00"
+      "last_modified": "2021-06-20T17:16:35-04:00"
     },
     {
       "path": "source_B.html",
@@ -42,7 +42,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T16:24:58-04:00"
+      "last_modified": "2021-06-20T17:16:37-04:00"
     }
   ],
   "collections": []
