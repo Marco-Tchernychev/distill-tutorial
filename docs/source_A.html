@@ -109,10 +109,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta property="twitter:description" content="Detailed notes for Source A."/>
 
   <!--/radix_placeholder_meta_tags-->
+  
+  <meta name="citation_reference" content="citation_title=Distill for r markdown;citation_publication_date=2018;citation_doi=10.23915/distill.00010;citation_author=Nora Jones"/>
+  <meta name="citation_reference" content="citation_title=Primer.data;citation_publication_date=2020;citation_publisher=;citation_author=David Kane"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Source A"]},{"type":"character","attributes":{},"value":["Detailed notes for Source A.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Marco Tchernychev"]}]}]},{"type":"character","attributes":{},"value":["2021-06-20"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","bibliography"]}},"value":[{"type":"character","attributes":{},"value":["Source A"]},{"type":"character","attributes":{},"value":["Detailed notes for Source A.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Marco Tchernychev"]}]}]},{"type":"character","attributes":{},"value":["2021-06-20"]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["bibliography.bib"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2103,9 +2106,19 @@ Sources
 </div>
 
 <div class="d-article">
+<p>Source A was Primer.data. It was flawless.<span class="citation" data-cites="primerdata">(<a href="#ref-primerdata" role="doc-biblioref">Kane 2020</a>)</span></p>
 <p>Distill is a publication format for scientific and technical writing, native to the web.</p>
 <p>Learn more about using Distill for R Markdown at <a href="https://rstudio.github.io/distill" class="uri">https://rstudio.github.io/distill</a>.</p>
+<p><span class="citation" data-cites="jones2018distill">(<a href="#ref-jones2018distill" role="doc-biblioref">Jones 2018</a>)</span></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-jones2018distill" class="csl-entry" role="doc-biblioentry">
+Jones, Nora. 2018. <span>“Distill for r Markdown.”</span> <em>Journal of Data Science Software</em>. <a href="https://doi.org/10.23915/distill.00010">https://doi.org/10.23915/distill.00010</a>.
+</div>
+<div id="ref-primerdata" class="csl-entry" role="doc-biblioentry">
+Kane, David. 2020. <em>Primer.data</em>.
+</div>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -2117,7 +2130,10 @@ Sources
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
-<div class="appendix-bottom"></div>
+<div class="appendix-bottom">
+<h3 id="references">References</h3>
+<div id="references-listing"></div>
+</div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <!--/radix_placeholder_navigation_after_body-->
